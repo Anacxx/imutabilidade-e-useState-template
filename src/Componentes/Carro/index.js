@@ -1,3 +1,5 @@
+import React from 'react'
+
 import { CarroContainer } from './styles'
 
 export function Carro({ modelo, cor, ano, flex, adicionadoPor }) {
